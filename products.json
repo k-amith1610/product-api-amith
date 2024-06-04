@@ -1,0 +1,38 @@
+[
+    {
+        "name": "iPhone",
+        "price": 15121241,
+        "feature": true,
+        "company": "apple"
+    },
+    {
+        "name": "iPhone10",
+        "price": 1512124,
+        "feature": true,
+        "company": "apple"
+    },
+    {
+        "name": "watch",
+        "price": 15114,
+        "feature": true,
+        "company": "apple"
+    },
+    {
+        "name": "clock",
+        "price": 1241,
+        "feature": true,
+        "company": "apple"
+    },
+    {
+        "name": "note 12 pro",
+        "price": 12334,
+        "feature": true,
+        "company": "mi"
+    },
+    {
+        "name": "A30",
+        "price": 203030,
+        "feature": true,
+        "company": "samsung"
+    }
+]
